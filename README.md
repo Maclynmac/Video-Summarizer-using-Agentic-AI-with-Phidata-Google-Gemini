@@ -14,4 +14,6 @@ Could be extended to support other LLMs (not just Gemini), or other front-ends (
 <li>Language Support As noted, transcript retrieval supports multiple languages. Summarization prompt can potentially be adapted for different languages (depending on Gemini’s capabilities).
 </li>
 <li>Structured Summary Output:Summary is not just free-form: it is structured into meaningful chunks, such as introduction, main points, takeaways. Optionally, include detailed notes or bullet-point style key insights.</li>
+<li>User Interface (UI):Built with Streamlit, providing a simple web-app UI where the user can: input a YouTube link, trigger summarization, and see results.  The app shows the video thumbnail once the link is input. Real-time / interactive: users can paste a link, click, and wait for summary.</li>
+
 </ul>
