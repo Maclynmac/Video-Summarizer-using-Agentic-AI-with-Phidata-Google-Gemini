@@ -29,6 +29,13 @@ Could be extended to support other LLMs (not just Gemini), or other front-ends (
 
 <strong>Technologies Used:</strong>
 <ul>
-<li>Python – for coding the entire ML pipeline</li>
-
+<li>Python — the main programming language. </li>
+<li>YouTube Transcript API — to fetch the transcript / captions for a YouTube video.</li>
+<li>Google Gemini Pro (Google Generative AI / Gemini API) — for summarization via LLM.</li>
+<li>Streamlit — for building the web-app UI.</li>
+<li>python-dotenv — to manage environment variables (e.g., API keys).</li>
+<li>Pathlib — for handling file paths.</li>
+<li>Faster-Whisper — used in some versions as fallback speech-to-text (if no transcript).</li>
+<li>yt-dlp — for downloading audio from YouTube (for transcription fallback).</li>
+<li>ReportLab — for PDF generation (exporting summaries).</li>
 </ul>
