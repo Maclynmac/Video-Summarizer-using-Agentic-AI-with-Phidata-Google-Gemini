@@ -4,7 +4,7 @@
 
 <ul>
   
-<li>Health Dataset Utilization: Utilizes medical data attributes such as age, hypertension, heart disease, and more to model stroke risk.</li>
+<li>Transcript extraction: Using APIs like YouTubeTranscriptApi to pull subtitles or speech-to-text from YouTube videos. </li>
 
 
 </ul>
