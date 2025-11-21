@@ -8,4 +8,5 @@
 <li>Preprocessing: Clean up the transcript — remove noise, format text, handle long lengths. </li>
 <li>Summarization prompt and model: Define a prompt template for the LLM to generate summaries (core theme, key points, tips, suggestions)</li>
 <li>Chunking / handling long videos: If the transcript is very long, break into chunks before feeding into the LLM. (mentioned as a future enhancement) </li>
+<li>Environment / API Key Management:Uses .env file / environment variables to store the Gemini API key securely. Dependencies / libraries managed via requirements.txt.</li>
 </ul>
