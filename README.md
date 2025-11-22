@@ -43,7 +43,10 @@ Could be extended to support other LLMs (not just Gemini), or other front-ends (
 # Output
 
 <img width="5348" height="2656" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/e1b2f706-adac-4309-83d9-093f787b65fc" />
+
 <img width="5436" height="2719" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/754ffc20-b73a-4bc1-9522-3e0626e64f59" />
+
 <img width="5350" height="2728" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/2c576d87-324c-4709-9529-2e4b137c31fd" />
+
 <img width="5356" height="2640" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/a1380654-ae74-4758-b279-66c01f7c76ea" />
 
